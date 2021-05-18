@@ -57,7 +57,7 @@ I want to be a software developer in `python`
     - lazyness
 
 **Achievements**
-- I got first prize in running
+- I got first prize in running and jumping
 
 **THANK YOU!!!**
 
