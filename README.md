@@ -49,5 +49,15 @@
 
 I want to be a software developer in `python`
 
+**Strengths and Weaknesses**
+- Strengths:
+    - Hardwork
+    - logical thinking
+- Weaknesses:
+    - lazyness
+
+**Achievements**
+- I got first prize in running
+
 **THANK YOU!!!**
 
