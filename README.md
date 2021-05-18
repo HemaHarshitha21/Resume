@@ -45,5 +45,9 @@
 - playing shettle
 - drawing
 
+**Goals**
+
+I want to be a software developer in `python`
+
 **THANK YOU!!!**
 
